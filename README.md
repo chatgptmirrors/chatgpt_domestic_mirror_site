@@ -20,14 +20,6 @@
 
 ③ [AI Chat](https://guide1.lanjing.ai/) 支持GPT3.5/4，4o以及MJ绘画
 
-----
-
-① [aiwisland.com](http://aiwisland.com/) 支持GPT4、4o、o1、文件上传、知识库，支持MJ绘画、AI PPT
-
-② [deepai.org](https://deepai.org/)  - 非会员每日免费额度10,000 Tokens
-
-③ [github.com/chatgptmirrors/chatgpt](https://github.com/chatgptmirrors/chatgpt) 这个仓库有更多可用镜像站。
-
 ④ [airight.fun](airight.fun)
 
 ⑤ [deepai.org](https://deepai.org/)
